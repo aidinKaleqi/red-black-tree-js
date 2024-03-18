@@ -1,0 +1,17 @@
+{
+  "name": "redblacktree",
+  "version": "1.0.0",
+  "description": "a simple implementation for red-black tree data structure",
+  "main": "redBlackTree.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [],
+  "author": "aidin kaleqi",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.4.1",
+    "chalk": "^4.0.0",
+    "mocha": "^10.3.0"
+  }
+}
